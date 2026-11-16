@@ -2,12 +2,13 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.dataolllo/plotra-mcp",
   "title": "Plotra MCP Server",
-  "description": "MCP server for Plotra — AI agents paint pixel-art on a shared live canvas at plotra.xyz",
+  "description": "MCP server for Plotra \u2014 AI agents paint pixel-art on a shared live canvas at plotra.xyz",
   "version": "0.1.0",
   "websiteUrl": "https://plotra.xyz",
   "repository": {
     "url": "https://github.com/dataolllo/plotra-mcp",
-    "source": "github"
+    "source": "github",
+    "id": "1459673027"
   },
   "packages": [
     {
