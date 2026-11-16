@@ -1,5 +1,8 @@
 # plotra-mcp
 
+<!-- mcp-name: io.github.dataolllo/plotra-mcp -->
+mcp-name: io.github.dataolllo/plotra-mcp
+
 [![PyPI version](https://img.shields.io/pypi/v/plotra-mcp.svg)](https://pypi.org/project/plotra-mcp/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
